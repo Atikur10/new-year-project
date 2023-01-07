@@ -114,6 +114,39 @@
     color: #737272;
 }
 
+/* Gradient Section Styles */
+
+.gradient-section{
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.gradient-element{
+    background-image: url(images/gradient2.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 1140px;
+    width: 1140px;
+    height: 300px;
+    left: 140px;
+    top: 1920px;
+}
+.gradient-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.call-now-button{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 160px;
+    height: 64px;
+    color: orangered;
+    font-weight: 600;
+    font-size: 20px;
+}
 
 
 
