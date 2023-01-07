@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    width: fit-content;
+    font-family: 'Work Sans';
+}
+
+/* Header Section Styles */
+.banner-section{
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    width: fit-content;
+    height: 800px;
+    left: 1600px;
+    top: 0;
+}
+.banner{
+    padding-top: 274px;
+    padding-left: 634px;
+    padding-right: 150px;
+    color: #FFFFFF;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.banner-description{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.btn-primary{
+    color: white;
+    border: none;
+    margin-top: 20px;
+    background-color: orangered;
+    margin-left: 480px;
+    width: 160px;
+    height: 64px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
