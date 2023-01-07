@@ -43,6 +43,45 @@
     height: 64px;
 }
 
+/* [Main Section] Failure Section Styles */
+
+.main-section{
+    height: 1500px;
+}
+
+.failure-section{
+    display: flex;
+}
+.failure{
+    margin-right: 320px;
+    margin-left: 206;
+    margin-top: 130px;
+}
+.person-image{
+    margin-left: 150px;
+}
+.text-section{
+    margin-left: 800px;
+    margin-top: -430px;
+    margin-bottom: 200px;
+    margin-right: -170px;
+}
+.failure-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.failure-description{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.changes li{
+    list-style-type:square;
+    margin-top: 0px;
+}
 
 
 
