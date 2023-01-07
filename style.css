@@ -83,6 +83,37 @@
     margin-top: 0px;
 }
 
+/* My Plans Section Styles */
+
+.my-plan-section{
+    width: 1140px;
+    height: 300px;
+    display: flex;
+    margin: 0 auto;
+    
+}
+.my-plan-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    left: 625px;
+    top: 1660px;
+    position: absolute;
+   
+}
+.plan{
+    margin: 0 auto;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 18px;
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 16px;
+    color: #737272;
+}
+
 
 
 
